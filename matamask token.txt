@@ -1,0 +1,8 @@
+step 1- add meta mask Extension to chrom web browser.
+step 2- create a wallet in meta mask .
+step 3- buy test ether from Faucet.
+step 4- create a cryptocurrency token from tokan mint.
+step 5- pay the gas fees for creating my tokan.
+step 6- view my created tokan on Goerli ether.
+step 7- add the created tokens to the assets in meta mask.
+step 8- send your token from your account to to other account account .
